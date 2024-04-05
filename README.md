@@ -1,5 +1,5 @@
 ## Mechanics
-
+### Starting Abilities
 | Name | effect |
 | ------------ | ------------------------------------------------------------------------------- |
 | Big warrior | Strx2 for base combat modifier. Ignore armor with 2 handed bulk 3+ |
