@@ -1,3 +1,18 @@
+## Mechanics
+
+| Name | effect |
+| ------------ | ------------------------------------------------------------------------------- |
+| Big warrior | Strx2 for base combat modifier. Ignore armor with 2 handed bulk 3+ |
+| Small warrior | Opponents cannot dodge your attacks with bulk 1 weapons. |
+| Neutral warrior | Whirling Dervish action applies to Medium Shields. You never take a penalty to multiple parries with a small shield. |
+| Prodigy | Choose 2 practical skills. You can flip your roll on those skills. You can never crit fail. |
+| Defender | You can parry for allies close to you. +2 ap wearing armor. |
+| Bookworm | +30 lang other, +30 culture other, and lore rerolls |
+| Sniper | Use str+siz+(dex or int) for the damage chart on ranged attacks only. You can make a called shot, taking a  -20% hit to deal an additional effect of your choice: ``` 1. They take a -20% on combat skills for 1 turn. 2. They take a -50% on practical skills for 1 turn. 3. You can roll twice on damage. ``` |
+| Gifted apprentice | One common spell requires no rolls, and learn 1 taught spell.  |
+| Stubborn | The First time a session you are knocked to 0 you go back to full. Persistence and resistance gain +10. |
+| Practical | Pick 5 practical skills. You may reroll them, taking the second results instead. |
+
 
 ## Religion
 ### The Green Path
