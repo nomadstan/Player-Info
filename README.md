@@ -33,18 +33,11 @@ Finally you can swap 2 stats.
 | Species | Bonus |
 |---------|----------------------------------------------|
 | Human | Pick a skill thats under 30%, it becomes 30% |
-
 | Halfling | 100% on athletics checks when climbing |
-
 |Dwarf | Immune to poison |
-
 | Orc | Darkvision|
-
 | Houndfolk | Scent |
-
 | cathari | No falling damage |
-
-
 | Goat | immune to cold | 
 | goblin | immune to fire | 
 | lizardfolk | breathe underwater and on land | 
