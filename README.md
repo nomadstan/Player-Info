@@ -1,5 +1,5 @@
 ## The Jist
-You are all adventurers. Most of adventurers are blessed by ***, giving them natual afinity for spells and magic, without the use of components. This fact has caused a rift among people, leading to those blessed to abandon the safty of walls and cities to venture out to protect and forge a new life. Find the lost city of D, the city made of gold, or defend the weak to prove the goddesses curse a blessing, the choice is yours.
+You are all adventurers. Most of adventurers are blessed by ***, giving them natual afinity for spells and magic, without the use of components. This fact has caused a rift among people, leading to those blessed to abandon the safty of walls and cities to venture out to protect and forge a new life. Find the lost city of D, the city made of gold, or defend the weak to prove the goddesses blessing, the choice is yours.
 
 
 ## Mechanics
