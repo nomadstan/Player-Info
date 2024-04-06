@@ -1,4 +1,19 @@
+## The Jist
+You are all adventurers. Most of adventurers are blessed by ***, giving them natual afinity for spells and magic, without the use of components. This fact has caused a rift among people, leading to those blessed to abandon the safty of walls and cities to venture out to protect and forge a new life. Find the lost city of D, the city made of gold, or defend the weak to prove the goddesses curse a blessing, the choice is yours.
+
+
 ## Mechanics
+### Starting Attributes
+Normal 3d6 across the board.
+
+And you can choose up to both of these. 
+
+> Can choose to make 1 stat 2d6+6 for 1 stat to become 2d6+3
+> 
+> Can choose to make 1 Stat 1d6+12 for 1 stat to become 2d6
+
+Finally you can swap 2 stats. 
+
 ### Starting Abilities
 | Name | effect |
 | ------------ | ------------------------------------------------------------------------------- |
@@ -12,7 +27,7 @@
 | Gifted apprentice | One common spell requires no rolls, and learn 1 taught spell.  |
 | Stubborn | The First time a session you are knocked to 0 you go back to full. Persistence and resistance gain +10. |
 | Practical | Pick 5 practical skills. You may reroll them, taking the second results instead. |
-
+| Veil-Pierced | You cannot cast spells, and can never cast spells. This give you access to Spell Guns, and ads favor with most Alchemists |
 
 ## Religion
 ### The Green Path
