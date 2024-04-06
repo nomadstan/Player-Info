@@ -29,6 +29,28 @@ Finally you can swap 2 stats.
 | Practical | Pick 5 practical skills. You may reroll them, taking the second results instead. |
 | Veil-Pierced | You cannot cast spells, and can never cast spells. This give you access to Spell Guns, and ads favor with most Alchemists |
 
+## Species
+| Species | Bonus |
+|---------|----------------------------------------------|
+| Human | Pick a skill thats under 30%, it becomes 30% |
+
+| Halfling | 100% on athletics checks when climbing |
+
+|Dwarf | Immune to poison |
+
+| Orc | Darkvision|
+
+| Houndfolk | Scent |
+
+| cathari | No falling damage |
+
+
+| Goat | immune to cold | 
+| goblin | immune to fire | 
+| lizardfolk | breathe underwater and on land | 
+| kobolds | one extra spell |
+
+
 ## Religion
 ### The Green Path
 The religion of the people, it’s spread across Ryll since people first hatched. The belief that “A natural being must follow their natural purpose: to grow, to change, to share, to die.” There are many different sub-sects that follow hundreds of branching ideas, from following a single magical beast, to merely being a philosophical position, nearly all are welcome in walking the Green Path.
