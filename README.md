@@ -47,20 +47,38 @@ Finally you can swap 2 stats.
 ## Religion
 ### The Green Path
 The religion of the people, it’s spread across Ryll since people first hatched. The belief that “A natural being must follow their natural purpose: to grow, to change, to share, to die.” There are many different sub-sects that follow hundreds of branching ideas, from following a single magical beast, to merely being a philosophical position, nearly all are welcome in walking the Green Path.
+
+Secret Spell: Dominate Animal, and others
+
 ### Elementism
 The belief that the world is built on 4 main elements: Earth, Air, Water, Fire. This extends to even the souls of people being aligned with these elements. A type of pseudo-pop psychology to some (e.g. astrology) and a defining feature of all life to others, this belief has grown across the Ryll and it is nearly as old as the Green Path. Followers are typically very focused on community and art, seeking harmony among the elements.
+
+Secret Spell: Summon (any) Elemental, and others
+
 ### The Stained God
 A religion from the far north, this belief is that there is one god and he is angry. Worshipers follow and plead with this god to avoid his wrath and all ills can certainly be blamed on the Stained God. Some believe themselves to be the tools of his wrath, dolling punishment out, while others might fast or use more extreme forms of self-neglect to punish themselves.
+
+Secret Spells: Raise Undead, Wax Effigy
+
 ### Sublism
 This religion rejects the idea of any higher beings deserving worship. Mortals and their achievements are deserving of worship in their own rights. Striving to be the best at any given field, making a legacy and name for yourself, and fighting to be remembered is more worthy than giving crops to some ancient being.
+
+Secret Spell: Permanency, Tongues
+
 ### The Truth
 There is one path and it’s the truth. This belief is the idea that all insight is revealed by an entity known as “The Truth'' and all other ideas are lies. Most of their followers are Alchemists, and eventually some do go through a process known as Verisification, whereby one submits part of their soul to truth, to gain insight into the world, and can perform Alchemy. Not all Alchemists follow “The Truth'', but the majority do.
+
+
 ### Warrior and Priest
 Also known as The Consortium, this religion upholds the idea that promises and contracts are sacred, none more sacred than the promises of parents and spouses. Followed by many government officials, traders, and city folk, this religion upholds that your word is your bond, and a bond should not be broken..They also venerate the ideas of protection and ensuring those around you are safe and cared for. 
+
+Secret Spells: Rout, Resurrect
 
 ### The Sun-King
 
 The firebird, phoenix of life. The source of creation. A new cult formed around the phoenix known as Kaustra. They are a strict passionate group, sword to root out and aid all peoples. Aggressively expanding and easily the most organized of all the religions.
+
+Secret Spells: Summon Fire Elemental, Skybolt
 
 ## Cultures
 ### Stallish
